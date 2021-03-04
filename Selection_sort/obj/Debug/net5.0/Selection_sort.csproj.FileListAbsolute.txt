@@ -1,0 +1,16 @@
+/home/odevlab/Documents/C#/Selection_sort/bin/Debug/net5.0/Selection_sort
+/home/odevlab/Documents/C#/Selection_sort/bin/Debug/net5.0/Selection_sort.deps.json
+/home/odevlab/Documents/C#/Selection_sort/bin/Debug/net5.0/Selection_sort.runtimeconfig.json
+/home/odevlab/Documents/C#/Selection_sort/bin/Debug/net5.0/Selection_sort.runtimeconfig.dev.json
+/home/odevlab/Documents/C#/Selection_sort/bin/Debug/net5.0/Selection_sort.dll
+/home/odevlab/Documents/C#/Selection_sort/bin/Debug/net5.0/ref/Selection_sort.dll
+/home/odevlab/Documents/C#/Selection_sort/bin/Debug/net5.0/Selection_sort.pdb
+/home/odevlab/Documents/C#/Selection_sort/obj/Debug/net5.0/Selection_sort.csprojAssemblyReference.cache
+/home/odevlab/Documents/C#/Selection_sort/obj/Debug/net5.0/Selection_sort.GeneratedMSBuildEditorConfig.editorconfig
+/home/odevlab/Documents/C#/Selection_sort/obj/Debug/net5.0/Selection_sort.AssemblyInfoInputs.cache
+/home/odevlab/Documents/C#/Selection_sort/obj/Debug/net5.0/Selection_sort.AssemblyInfo.cs
+/home/odevlab/Documents/C#/Selection_sort/obj/Debug/net5.0/Selection_sort.csproj.CoreCompileInputs.cache
+/home/odevlab/Documents/C#/Selection_sort/obj/Debug/net5.0/Selection_sort.dll
+/home/odevlab/Documents/C#/Selection_sort/obj/Debug/net5.0/ref/Selection_sort.dll
+/home/odevlab/Documents/C#/Selection_sort/obj/Debug/net5.0/Selection_sort.pdb
+/home/odevlab/Documents/C#/Selection_sort/obj/Debug/net5.0/Selection_sort.genruntimeconfig.cache

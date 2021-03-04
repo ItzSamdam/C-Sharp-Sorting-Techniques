@@ -1,0 +1,16 @@
+/home/odevlab/Documents/C#/Quadratic_equation/bin/Debug/net5.0/Quadratic_equation
+/home/odevlab/Documents/C#/Quadratic_equation/bin/Debug/net5.0/Quadratic_equation.deps.json
+/home/odevlab/Documents/C#/Quadratic_equation/bin/Debug/net5.0/Quadratic_equation.runtimeconfig.json
+/home/odevlab/Documents/C#/Quadratic_equation/bin/Debug/net5.0/Quadratic_equation.runtimeconfig.dev.json
+/home/odevlab/Documents/C#/Quadratic_equation/bin/Debug/net5.0/Quadratic_equation.dll
+/home/odevlab/Documents/C#/Quadratic_equation/bin/Debug/net5.0/ref/Quadratic_equation.dll
+/home/odevlab/Documents/C#/Quadratic_equation/bin/Debug/net5.0/Quadratic_equation.pdb
+/home/odevlab/Documents/C#/Quadratic_equation/obj/Debug/net5.0/Quadratic_equation.csprojAssemblyReference.cache
+/home/odevlab/Documents/C#/Quadratic_equation/obj/Debug/net5.0/Quadratic_equation.GeneratedMSBuildEditorConfig.editorconfig
+/home/odevlab/Documents/C#/Quadratic_equation/obj/Debug/net5.0/Quadratic_equation.AssemblyInfoInputs.cache
+/home/odevlab/Documents/C#/Quadratic_equation/obj/Debug/net5.0/Quadratic_equation.AssemblyInfo.cs
+/home/odevlab/Documents/C#/Quadratic_equation/obj/Debug/net5.0/Quadratic_equation.csproj.CoreCompileInputs.cache
+/home/odevlab/Documents/C#/Quadratic_equation/obj/Debug/net5.0/Quadratic_equation.dll
+/home/odevlab/Documents/C#/Quadratic_equation/obj/Debug/net5.0/ref/Quadratic_equation.dll
+/home/odevlab/Documents/C#/Quadratic_equation/obj/Debug/net5.0/Quadratic_equation.pdb
+/home/odevlab/Documents/C#/Quadratic_equation/obj/Debug/net5.0/Quadratic_equation.genruntimeconfig.cache

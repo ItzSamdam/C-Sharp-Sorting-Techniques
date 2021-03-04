@@ -1,0 +1,16 @@
+/home/odevlab/Documents/C#/Insertion_sort/bin/Debug/net5.0/Insertion_sort
+/home/odevlab/Documents/C#/Insertion_sort/bin/Debug/net5.0/Insertion_sort.deps.json
+/home/odevlab/Documents/C#/Insertion_sort/bin/Debug/net5.0/Insertion_sort.runtimeconfig.json
+/home/odevlab/Documents/C#/Insertion_sort/bin/Debug/net5.0/Insertion_sort.runtimeconfig.dev.json
+/home/odevlab/Documents/C#/Insertion_sort/bin/Debug/net5.0/Insertion_sort.dll
+/home/odevlab/Documents/C#/Insertion_sort/bin/Debug/net5.0/ref/Insertion_sort.dll
+/home/odevlab/Documents/C#/Insertion_sort/bin/Debug/net5.0/Insertion_sort.pdb
+/home/odevlab/Documents/C#/Insertion_sort/obj/Debug/net5.0/Insertion_sort.csprojAssemblyReference.cache
+/home/odevlab/Documents/C#/Insertion_sort/obj/Debug/net5.0/Insertion_sort.GeneratedMSBuildEditorConfig.editorconfig
+/home/odevlab/Documents/C#/Insertion_sort/obj/Debug/net5.0/Insertion_sort.AssemblyInfoInputs.cache
+/home/odevlab/Documents/C#/Insertion_sort/obj/Debug/net5.0/Insertion_sort.AssemblyInfo.cs
+/home/odevlab/Documents/C#/Insertion_sort/obj/Debug/net5.0/Insertion_sort.csproj.CoreCompileInputs.cache
+/home/odevlab/Documents/C#/Insertion_sort/obj/Debug/net5.0/Insertion_sort.dll
+/home/odevlab/Documents/C#/Insertion_sort/obj/Debug/net5.0/ref/Insertion_sort.dll
+/home/odevlab/Documents/C#/Insertion_sort/obj/Debug/net5.0/Insertion_sort.pdb
+/home/odevlab/Documents/C#/Insertion_sort/obj/Debug/net5.0/Insertion_sort.genruntimeconfig.cache
